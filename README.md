@@ -1,4 +1,4 @@
-View the rendered files [here](http://nbviewer.ipython.org/github/vbarua/PythonWorkshop/tree/master/).
+All of the code for this workshop is contained in iPython Notebooks. The rendered notebooks can be viewed [here](http://nbviewer.ipython.org/github/vbarua/PythonWorkshop/tree/master/).
 
 # Table of Contents
 ## Meta
@@ -6,7 +6,7 @@ View the rendered files [here](http://nbviewer.ipython.org/github/vbarua/PythonW
  2. Python Setup
 
 ## Introduction to Python
- 1. String and Numbers
+ 1. Strings, Numbers and Booleans
  2. Tuples and Lists
  3. Dictionaries
  4. Conditionals and Looping
@@ -14,9 +14,9 @@ View the rendered files [here](http://nbviewer.ipython.org/github/vbarua/PythonW
  6. Classes
  7. Imports
 
-## Numerical Computing with Numpy
- 1. Introduction to Numpy
- 2. Linear Algebra with Numpy
+## Numerical Computing with NumPy
+ 1. Introduction to NumPy
+ 2. Linear Algebra with NumPy
 
 ## An Interlude on Input and Output
  1. Reading and Writing Data
@@ -27,7 +27,6 @@ View the rendered files [here](http://nbviewer.ipython.org/github/vbarua/PythonW
 
 ## Useful SciPy Functionalities
  1. Curve Fitting with SciPy
- 2. Linear Regresssion with SciPy
 
 
-Produced by Victor Barua for use at the Physics Society of the University of British Columbia. Feedback welcome.
+Produced by *Victor Barua* for use by the *Physics Society* of the *University of British Columbia*. All examples are provided as is. Feedback welcome.

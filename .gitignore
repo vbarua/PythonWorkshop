@@ -1,6 +1,7 @@
 basicOutput.txt
 temperatureData.csv
 withFile.txt
+Line.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
