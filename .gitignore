@@ -1,3 +1,7 @@
+basicOutput.txt
+temperatureData.csv
+withFile.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
