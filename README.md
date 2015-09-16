@@ -1,4 +1,16 @@
-All of the code for this workshop is contained in iPython Notebooks. The rendered notebooks can be viewed [here](http://nbviewer.ipython.org/github/vbarua/PythonWorkshop/tree/master/).
+### How to Use this Guide
+Each of the *Sections* in the *Table of Contents* maps to one of the folders above. Click on the folder to open it, and then click on the file you want to view.
+
+
+All of the code for this workshop is contained in [iPython Notebooks](http://ipython.org/notebook.html).
+
+### Extra Resources
+* The official [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#version-bookkeeping).
+* The official [Python Tutorial](https://docs.python.org/3/tutorial/). Start at Section 3. Goes into more detail than this workshop.
+
+
+* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) - An online book. Very detailed, great for beginners.
+* [Dive Into Python](http://www.diveintopython3.net/your-first-python-program.html) - Another online book. Covers a bit more advance material.
 
 # Table of Contents
 ## Meta
@@ -29,4 +41,9 @@ All of the code for this workshop is contained in iPython Notebooks. The rendere
  1. Curve Fitting with SciPy
 
 
-Produced by *Victor Barua* for use by the *Physics Society* of the *University of British Columbia*. All examples are provided as is. Feedback welcome.
+# Disclaimer
+Produced by *Victor Barua* for use by the [Physics Society](http://physsoc.phas.ubc.ca/) of the University of British Columbia.
+
+This guide is collated from my own experiences using Python for various projects. All examples are provided as is. All mistakes are my own.
+
+[Feedback](https://twitter.com/v_barua) welcome.
