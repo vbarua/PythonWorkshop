@@ -2,6 +2,7 @@ basicOutput.txt
 temperatureData.csv
 withFile.txt
 Line.pdf
+.vagrant
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
