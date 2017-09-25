@@ -3,6 +3,7 @@ temperatureData.csv
 withFile.txt
 Line.pdf
 .vagrant
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
